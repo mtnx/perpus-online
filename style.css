@@ -1,0 +1,157 @@
+#wrapper {
+	font-family: "Arial Black", Gadget, sans-serif;
+
+}
+
+#header {
+	height: auto;
+	width: 100%;
+	background-color: #FFF;
+}
+#logo {
+	height: 180px;
+	width: 180px;
+	margin-left: 44%;
+}
+
+#menu {
+	background-color: #BFFFFF;
+	height: 36px;
+	width: auto;
+	text-align: center;
+	padding-right: 11%;
+	padding-left: 11%;
+	border-top-style: solid;
+	border-top-width: 2px;
+	border-top-color: #BFFFFF;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFF;
+}
+#slider {
+	height: auto;
+	width: auto;
+	padding-top: 10px;
+	background-color: #BFFFFF;
+	padding-bottom: 1px;
+}
+#konten {
+	height: auto;
+	width: auto;
+	overflow: hidden;
+	padding-top: 30px;
+	padding-right: 50px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+#artikel {
+	float: left;
+	height: auto;
+	width: 70%;
+	padding: 5px;
+}
+#sidebar {
+	float: right;
+	height: auto;
+	width: 20%;
+	padding: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+
+
+
+
+
+
+
+
+
+
+	a 
+;
+	color: #000;
+	border: 1px solid #0CC;
+	margin-top: 5px;
+}
+
+#footer {
+	height: auto;
+	overflow: hidden;
+	width: auto;
+	padding-top: 30px;
+	padding-right: 50px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+}
+#quotes {
+	height: auto;
+	width: 700px;
+	float: left;
+	padding: 10px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-align: left;
+	vertical-align: 1%;
+	font-style: normal;
+}
+
+#sosial {
+	height: auto;
+	width: 400px;
+	float: right;
+	text-align: center;
+	font-size: 24px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+#name {
+	background-color: #BFFFFF;
+	height: 30px;
+	width: auto;
+	text-align: center;
+	line-height: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 80%;
+}
+#ini {
+
+	background-color: #BFFFFF;
+	height: auto;
+	width: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 500px;
+	padding-left: 500px;
+}
+#nam {
+	height: auto;
+	width: auto;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 25px;
+	font-weight: bold;
+}
+#iki {
+	border-radius: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+	background-color: #FFF;
+	height: 30px;
+	width: auto;
+	left: -200px;
+	line-height: 30px;
+}
+#login_anggota {
+	background-color: #BFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	height: auto;
+	width: auto;
+	padding: 5px;
+	border: 1px solid #0CC;
+}
+.LOGIN_ANGGOTA_JUDUL {
+	font-weight: bold;
+}

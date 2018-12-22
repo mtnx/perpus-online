@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+#login {
+	height: 380px;
+	width: 400px;
+	background-color: rgba(255,255,255,0.5);
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-top: -185px;
+	margin-left: -200px;
+	border-radius: 30px;
+	border: 2px solid #099;
+	text-align: center;
+}
+
+#login:hover {
+
+	box-shadow: 0px 0px 10px white;
+}
+
+
+
+#kembali {
+	height: auto;
+	width: 70px;
+	line-height: 30px;
+	float: right;
+	position: relative;
+	left: -50px;
+	top: 10px;
+	background-color: rgba(255,255,255,0.5);
+	border: 1px solid #099;
+	border-radius: 10px;
+}
+#kembali:hover {
+	background-color: rgba(255,255,255,0.5); 
+	box-shadow: 0px 0px 10px white;
+}
+.tabel
+{
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #666;
+	border-bottom-color: #666;
